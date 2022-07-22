@@ -14,14 +14,18 @@ I'm 22 years old and I studied three periods of Physical Education at the Federa
                                 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
                                 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
                     </p>
-                    
+          
+          
 ### Socials
                                   
 <p align="left">
                           
-<a href="https://www.github.com/santanap2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-<a href="http://www.instagram.com/santanap2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.linkedin.com/in/pedro-santana-895445238/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-href="http://www.github.com/santanap2"><img src="https://github-readme-stats.vercel.app/api?username=santanap2&show_icons=true&hide=issues,contribs&title_color=3382ed&text_color=14b8a6&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="santanap2's GitHub stats" /></a><a href="https://github.com/santanap2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanap2&langs_count=10&title_color=3382ed&text_color=14b8a6&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://www.github.com/santanap2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>     <a href="http://www.instagram.com/santanap2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>     <a href="https://www.linkedin.com/in/pedro-santana-895445238/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  
+
+  
+### My GitHub Stats
+
+<a href="http://www.github.com/santanap2"><img src="https://github-readme-stats.vercel.app/api?username=santanap2&show_icons=true&hide=issues,contribs&title_color=3382ed&text_color=14b8a6&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="santanap2's GitHub stats" /></a>
+
+<a href="https://github.com/santanap2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanap2&langs_count=10&title_color=3382ed&text_color=14b8a6&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
