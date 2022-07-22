@@ -15,10 +15,9 @@ I'm 22 years old and I studied three periods of Physical Education at the Federa
                                 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
                     </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
+### Socials
+                                  
+<p align="left">
                           
                       <a href="https://www.github.com/santanap2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
