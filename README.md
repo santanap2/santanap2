@@ -6,7 +6,7 @@ Web Development Student on Trybe
 
 I'm 22 years old and I studied three periods of Physical Education at the Federal University of Minas Gerais and recently made the decision to change my area of expertise. I am currently studying web development at Trybe, having joined in April 2022. My main interests are in: technology, music, games and sports. At the moment I have basic knowledge of Java Script and HTML, aiming to go deeper and become a Full-Stack developer!
 
-*   🌍  I'm based in Belo Horizonte
+*   🌍  I'm based in Belo Horizonte - MG.
 *   ✉️  You can contact me at [phsantana99@gmail.com](mailto:phsantana99@gmail.com)
 *   🧠  I'm learning Javascript, HTML, CSS and React!
 ### Skills
