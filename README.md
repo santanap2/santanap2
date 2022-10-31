@@ -4,11 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Development Student on Trybe
 --------------------------------
 
-I'm 22 years old and I studied three periods of Physical Education at the Federal University of Minas Gerais and recently made the decision to change my area of expertise. I am currently studying web development at Trybe, having joined in April 2022. My main interests are in: technology, music, games and sports. At the moment I have basic knowledge of Java Script and HTML, aiming to go deeper and become a Full-Stack developer!
+Hi, I'm Pedro and I'm 23 years old, born and raised in Belo Horizonte, Minas Gerais. I'm a former student of Physical Education at UFMG and currently in a career transition to the Web Development area, having been a student at Trybe  since April 2022.
+I have a general knowledge of Front-End, which includes HTML, CSS, Javascript, Jest, React.JS between others. At this moment, I'm studying Back-End to become a Full-Stack Developer.
+My main interests are in: technology, music, gaming and sports.
+
+Here is my LinkedIn: https://www.linkedin.com/in/pedro-santana-dev/
 
 *   🌍  I'm based in Belo Horizonte - MG.
 *   ✉️  You can contact me at [phsantana99@gmail.com](mailto:phsantana99@gmail.com)
-*   🧠  I'm learning Javascript, HTML, CSS and React!
+*   🧠  I'm learning MySQL!
 ### Skills
 
 <p align="left">
@@ -22,7 +26,7 @@ I'm 22 years old and I studied three periods of Physical Education at the Federa
 ### Socials
                                   
 <p align="left">                       
-<a href="https://www.github.com/santanap2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>     <a href="http://www.instagram.com/santanap2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>     <a href="https://www.linkedin.com/in/pedro-santana-895445238/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/santanap2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>     <a href="http://www.instagram.com/santanap2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>     <a href="https://www.linkedin.com/in/pedro-santana-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   
 
   
