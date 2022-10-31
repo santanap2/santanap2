@@ -12,7 +12,8 @@ Here is my LinkedIn: https://www.linkedin.com/in/pedro-santana-dev/
 
 *   🌍  I'm based in Belo Horizonte - MG.
 *   ✉️  You can contact me at [phsantana99@gmail.com](mailto:phsantana99@gmail.com)
-*   🧠  I'm learning MySQL!
+*   🧠  I'm learning Docker and MySQL.
+
 ### Skills
 
 <p align="left">
