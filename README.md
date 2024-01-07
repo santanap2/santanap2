@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 Hi, I'm Pedro and I'm 23 years old, born and raised in Belo Horizonte, Minas Gerais. I'm a former student of Physical Education at UFMG and currently in a career transition to the Web Development area, having been a student at Trybe since April 2022.
 
-I have a general knowledge of Front-end and Back-end skills, which includes Javascript, React.Js, HTML, CSS, Jest, Node.Js, Express, MySQL, Typescript, Sequelize, Docker and others.
+I have a general knowledge of Front-end and Back-end skills, which includes Typescript, React.Js, HTML, CSS, Jest, Node.Js, Express, MySQL, PrismaORM, Docker and others.
 
 In my public repositories you can see many numbered projects. These are all the projects I developed, alone or in groups with classmates during my last year studying at Trybe, sorted in chronological order as I learned. It's nice to see how much I've evolved as a programmer from zero knowledge in programming until now, and how much is still missing! I invite you to take a quick look at my work. Thank you a lot!
 
