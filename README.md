@@ -30,8 +30,11 @@ My email is: pedrosantana.dev@gmail.com
 ![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=%232D3748&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%232496ED&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=GIT&labelColor=black)
+![Static Badge](https://img.shields.io/badge/slack-%234A154B?style=for-the-badge&logo=slack&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/photoshop-%2331A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=%2331A8FF&labelColor=black)
+
             
 ### Socials
                                   
